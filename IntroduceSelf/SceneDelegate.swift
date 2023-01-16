@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  IntroduceSelf
 //
-//  Created by Willie Velez on 1/15/23.
+//  Created by Jonathan Velez on 1/15/23.
 //
 
 import UIKit
